@@ -1,0 +1,7 @@
+Creation of Node-Red starter application
+
+1. Once we sign in to our IBM Cloud account, we can navigate to the catalog and find the NODE-RED Starter application.
+2. This gives us a Node-RED instance running as a Cloud Foundry application. It also provides a Cloudant database instance and a collection of nodes that make it easy to access various IBM Cloud services.
+3. On clicking the starter application we want to use, we give it a name and click create.
+
+The creation of Node-Red starter application was done in reference to the following link: https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1w7dj_14HpIltZu_IRYlowem2Nb5Klfnz/view%3Fusp%3Dsharing&q=EgSfQfUcGJetofcFIhkA8aeDS4FNeAIaUFAzMe7M69WTYNPh-FjtMgFyShFTT1JSWV9JU1BfTUVTU0FHRQ

@@ -1,0 +1,7 @@
+Creation of IBM Cloud Account
+
+We create our IBM cloud account using the institutional ID/Smart Internz ID and password provided to us. 
+By applying the feature code given to us, we can activate our account. As per the instructions provided the 
+account was set up.
+
+The account was set up with reference to the following link: https://www.youtube.com/watch?v=KdSqvpVvmgs&feature=youtu.be

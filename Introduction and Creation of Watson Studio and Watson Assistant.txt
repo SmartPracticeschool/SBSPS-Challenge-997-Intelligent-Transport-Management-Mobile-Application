@@ -1,0 +1,17 @@
+Introduction to Watson Studio and Watson Assistant
+
+1. WATSON STUDIO:
+It provides us with the environment and tools to solve our business problems by collaboratively working with data. We can choose the tools you need to analyze and visualize data, to cleanse and shape data, to ingest streaming data, or to create and train machine learning models.
+
+We use Watson Studio in this project as we mainly deal with processing of data,analyzing it and predicting results based on the analysis on a regular basis.
+
+
+2. WATSON ASSISTANT:
+Watson Assistant is IBM's AI product that lets you build, train, and deploy conversational interactions into any application, device, or channel.
+
+In this project we use watson assistant as an additional feature of the app , in order to make the user interactions with the app more friendly.
+
+
+An instance of each service has been created. An instance of the each service has been created with respect to the following links:
+Watson Studio Creation link: https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1rx5ght1cCyt40VkwoFXR40iRHbHedMkA/view%3Fusp%3Dsharing&q=EgSfQfUcGJqvofcFIhkA8aeDSy79PLfDcxI5afkUaHKCcWAmnIlAMgFyShFTT1JSWV9JU1BfTUVTU0FHRQ
+Watson Assistant Creation link: https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1q8UnKoQCFPXg-_Txe6ypVwW90kyLqT8O/view%3Fusp%3Dsharing&q=EgSKxU51GI2vofcFIhkA8aeDS5LwAqT4Y6nheLpaN5WPzXr0YzyxMgFyShFTT1JSWV9JU1BfTUVTU0FHRQ
