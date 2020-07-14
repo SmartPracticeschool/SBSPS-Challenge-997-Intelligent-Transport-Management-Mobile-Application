@@ -1,5 +1,0 @@
-Project Planning
-So in project planning,we basically establish the following steps :
-1. Define our project objectives
-2. Clarify the scope of what needs to be done.
-3. Developing a task list/list of deliverables.
